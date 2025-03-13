@@ -1,0 +1,130 @@
+{
+    "Array": [
+        {
+            "index": 0,
+            "itemType": 6,
+            "itemCode": 5,
+            "itemValue": 2,
+            "rate": null
+        },
+        {
+            "index": 1,
+            "itemType": 6,
+            "itemCode": 6,
+            "itemValue": 3,
+            "rate": null
+        },
+        {
+            "index": 2,
+            "itemType": 6,
+            "itemCode": 10,
+            "itemValue": 1,
+            "rate": null
+        },
+        {
+            "index": 3,
+            "itemType": 6,
+            "itemCode": 3,
+            "itemValue": 1,
+            "rate": null
+        },
+        {
+            "index": 4,
+            "itemType": 6,
+            "itemCode": 4,
+            "itemValue": 1,
+            "rate": 50
+        },
+        {
+            "index": 5,
+            "itemType": 6,
+            "itemCode": 7,
+            "itemValue": 1,
+            "rate": 50
+        },
+        {
+            "index": 100,
+            "itemType": 0,
+            "itemCode": -1,
+            "itemValue": 500,
+            "rate": 40
+        },
+        {
+            "index": 101,
+            "itemType": 0,
+            "itemCode": -1,
+            "itemValue": 600,
+            "rate": 30
+        },
+        {
+            "index": 102,
+            "itemType": 0,
+            "itemCode": -1,
+            "itemValue": 700,
+            "rate": 30
+        },
+        {
+            "index": 103,
+            "itemType": 5,
+            "itemCode": 0,
+            "itemValue": 1,
+            "rate": 40
+        },
+        {
+            "index": 104,
+            "itemType": 5,
+            "itemCode": 2,
+            "itemValue": 1,
+            "rate": 30
+        },
+        {
+            "index": 105,
+            "itemType": 5,
+            "itemCode": 6,
+            "itemValue": 1,
+            "rate": 30
+        },
+        {
+            "index": 200,
+            "itemType": 0,
+            "itemCode": -1,
+            "itemValue": 100,
+            "rate": 50
+        },
+        {
+            "index": 201,
+            "itemType": 1,
+            "itemCode": -1,
+            "itemValue": 200,
+            "rate": 30
+        },
+        {
+            "index": 202,
+            "itemType": 2,
+            "itemCode": 8002,
+            "itemValue": 1,
+            "rate": 20
+        },
+        {
+            "index": 203,
+            "itemType": 1,
+            "itemCode": -1,
+            "itemValue": 222,
+            "rate": 50
+        },
+        {
+            "index": 204,
+            "itemType": 1,
+            "itemCode": -1,
+            "itemValue": 333,
+            "rate": 30
+        },
+        {
+            "index": 205,
+            "itemType": 1,
+            "itemCode": -1,
+            "itemValue": 444,
+            "rate": 20
+        }
+    ]
+}

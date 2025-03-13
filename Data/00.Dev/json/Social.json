@@ -1,0 +1,130 @@
+{
+    "Array": [
+        {
+            "index": 0,
+            "probability": 20,
+            "type": 0,
+            "code": -1,
+            "value": 100
+        },
+        {
+            "index": 1,
+            "probability": 10,
+            "type": 1,
+            "code": -1,
+            "value": 1
+        },
+        {
+            "index": 2,
+            "probability": 30,
+            "type": 12,
+            "code": -1,
+            "value": 10
+        },
+        {
+            "index": 1000,
+            "probability": 20,
+            "type": 0,
+            "code": -1,
+            "value": 100
+        },
+        {
+            "index": 1001,
+            "probability": 10,
+            "type": 1,
+            "code": -1,
+            "value": 1
+        },
+        {
+            "index": 1002,
+            "probability": 30,
+            "type": 12,
+            "code": -1,
+            "value": 10
+        },
+        {
+            "index": 2000,
+            "probability": 20,
+            "type": 0,
+            "code": -1,
+            "value": 100
+        },
+        {
+            "index": 2001,
+            "probability": 10,
+            "type": 1,
+            "code": -1,
+            "value": 1
+        },
+        {
+            "index": 2002,
+            "probability": 30,
+            "type": 12,
+            "code": -1,
+            "value": 10
+        },
+        {
+            "index": 3000,
+            "probability": 20,
+            "type": 0,
+            "code": -1,
+            "value": 100
+        },
+        {
+            "index": 3001,
+            "probability": 10,
+            "type": 1,
+            "code": -1,
+            "value": 1
+        },
+        {
+            "index": 3002,
+            "probability": 30,
+            "type": 12,
+            "code": -1,
+            "value": 10
+        },
+        {
+            "index": 4000,
+            "probability": 20,
+            "type": 0,
+            "code": -1,
+            "value": 100
+        },
+        {
+            "index": 4001,
+            "probability": 10,
+            "type": 1,
+            "code": -1,
+            "value": 1
+        },
+        {
+            "index": 4002,
+            "probability": 30,
+            "type": 12,
+            "code": -1,
+            "value": 10
+        },
+        {
+            "index": 5000,
+            "probability": 20,
+            "type": 0,
+            "code": -1,
+            "value": 100
+        },
+        {
+            "index": 5001,
+            "probability": 10,
+            "type": 1,
+            "code": -1,
+            "value": 1
+        },
+        {
+            "index": 5002,
+            "probability": 30,
+            "type": 12,
+            "code": -1,
+            "value": 10
+        }
+    ]
+}

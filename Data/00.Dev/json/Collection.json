@@ -1,0 +1,1208 @@
+{
+    "Array": [
+        {
+            "index": 0,
+            "itemType": 4,
+            "itemCode": 1,
+            "itemGetDescription": "돌을 줍거나 작은 바위를 캐보세요.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 1,
+            "itemType": 4,
+            "itemCode": 2,
+            "itemGetDescription": "작은 나뭇가지를 주워 보세요.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 2,
+            "itemType": 4,
+            "itemCode": 3,
+            "itemGetDescription": "큰 바위를 캐보세요.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 3,
+            "itemType": 4,
+            "itemCode": 4,
+            "itemGetDescription": "나무 밭에서 재배 할 수 있어요.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 4,
+            "itemType": 4,
+            "itemCode": 5,
+            "itemGetDescription": "나무 밭에서 재배 할 수 있어요.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 5,
+            "itemType": 4,
+            "itemCode": 6,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 6,
+            "itemType": 4,
+            "itemCode": 7,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 7,
+            "itemType": 4,
+            "itemCode": 8,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 8,
+            "itemType": 4,
+            "itemCode": 9,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 9,
+            "itemType": 4,
+            "itemCode": 10,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 10,
+            "itemType": 4,
+            "itemCode": 11,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 11,
+            "itemType": 4,
+            "itemCode": 12,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 12,
+            "itemType": 4,
+            "itemCode": 13,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 13,
+            "itemType": 4,
+            "itemCode": 14,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 14,
+            "itemType": 4,
+            "itemCode": 15,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 15,
+            "itemType": 4,
+            "itemCode": 16,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 16,
+            "itemType": 4,
+            "itemCode": 17,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 17,
+            "itemType": 4,
+            "itemCode": 18,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 18,
+            "itemType": 4,
+            "itemCode": 19,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 19,
+            "itemType": 4,
+            "itemCode": 1000,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 20,
+            "itemType": 4,
+            "itemCode": 1001,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 21,
+            "itemType": 4,
+            "itemCode": 1002,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 22,
+            "itemType": 4,
+            "itemCode": 1003,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 23,
+            "itemType": 4,
+            "itemCode": 1004,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 24,
+            "itemType": 4,
+            "itemCode": 1005,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 25,
+            "itemType": 4,
+            "itemCode": 1006,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 26,
+            "itemType": 4,
+            "itemCode": 1008,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 27,
+            "itemType": 4,
+            "itemCode": 2000,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 28,
+            "itemType": 4,
+            "itemCode": 2001,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 29,
+            "itemType": 4,
+            "itemCode": 2002,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 30,
+            "itemType": 4,
+            "itemCode": 2003,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 31,
+            "itemType": 4,
+            "itemCode": 2004,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 32,
+            "itemType": 4,
+            "itemCode": 2005,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 33,
+            "itemType": 4,
+            "itemCode": 2006,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 34,
+            "itemType": 4,
+            "itemCode": 2007,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 35,
+            "itemType": 4,
+            "itemCode": 2008,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 36,
+            "itemType": 4,
+            "itemCode": 2009,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 37,
+            "itemType": 4,
+            "itemCode": 2010,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 38,
+            "itemType": 4,
+            "itemCode": 3000,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 39,
+            "itemType": 4,
+            "itemCode": 3001,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 40,
+            "itemType": 4,
+            "itemCode": 3002,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 41,
+            "itemType": 4,
+            "itemCode": 3003,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 42,
+            "itemType": 4,
+            "itemCode": 3004,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 43,
+            "itemType": 4,
+            "itemCode": 3005,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 44,
+            "itemType": 4,
+            "itemCode": 3006,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 45,
+            "itemType": 4,
+            "itemCode": 3007,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 46,
+            "itemType": 4,
+            "itemCode": 4000,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 47,
+            "itemType": 4,
+            "itemCode": 4001,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 48,
+            "itemType": 4,
+            "itemCode": 4002,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 49,
+            "itemType": 4,
+            "itemCode": 5000,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 50,
+            "itemType": 4,
+            "itemCode": 5001,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 51,
+            "itemType": 4,
+            "itemCode": 5002,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 52,
+            "itemType": 4,
+            "itemCode": 5003,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 53,
+            "itemType": 4,
+            "itemCode": 5004,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 54,
+            "itemType": 4,
+            "itemCode": 5005,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 55,
+            "itemType": 4,
+            "itemCode": 5006,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 56,
+            "itemType": 4,
+            "itemCode": 5007,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 57,
+            "itemType": 4,
+            "itemCode": 5008,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 58,
+            "itemType": 4,
+            "itemCode": 5009,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 59,
+            "itemType": 4,
+            "itemCode": 5011,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 60,
+            "itemType": 4,
+            "itemCode": 5012,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 61,
+            "itemType": 4,
+            "itemCode": 5013,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 62,
+            "itemType": 4,
+            "itemCode": 5014,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 63,
+            "itemType": 4,
+            "itemCode": 5015,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 64,
+            "itemType": 4,
+            "itemCode": 5016,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 65,
+            "itemType": 4,
+            "itemCode": 5018,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 66,
+            "itemType": 4,
+            "itemCode": 5019,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 67,
+            "itemType": 4,
+            "itemCode": 5021,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 68,
+            "itemType": 4,
+            "itemCode": 5023,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 69,
+            "itemType": 4,
+            "itemCode": 5024,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 70,
+            "itemType": 4,
+            "itemCode": 5025,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 71,
+            "itemType": 4,
+            "itemCode": 5026,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 72,
+            "itemType": 4,
+            "itemCode": 5027,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 73,
+            "itemType": 4,
+            "itemCode": 5028,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 74,
+            "itemType": 4,
+            "itemCode": 5029,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 75,
+            "itemType": 4,
+            "itemCode": 5030,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 76,
+            "itemType": 4,
+            "itemCode": 5031,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 77,
+            "itemType": 4,
+            "itemCode": 5032,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 78,
+            "itemType": 4,
+            "itemCode": 5033,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 79,
+            "itemType": 4,
+            "itemCode": 5034,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 80,
+            "itemType": 4,
+            "itemCode": 5035,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 81,
+            "itemType": 4,
+            "itemCode": 5037,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 82,
+            "itemType": 4,
+            "itemCode": 5038,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 83,
+            "itemType": 4,
+            "itemCode": 5039,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 84,
+            "itemType": 4,
+            "itemCode": 5040,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 85,
+            "itemType": 4,
+            "itemCode": 5041,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 86,
+            "itemType": 4,
+            "itemCode": 5042,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 87,
+            "itemType": 4,
+            "itemCode": 5045,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 88,
+            "itemType": 4,
+            "itemCode": 5047,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 89,
+            "itemType": 4,
+            "itemCode": 5048,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 90,
+            "itemType": 4,
+            "itemCode": 5050,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 91,
+            "itemType": 4,
+            "itemCode": 6000,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 92,
+            "itemType": 4,
+            "itemCode": 6001,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 93,
+            "itemType": 4,
+            "itemCode": 6002,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 94,
+            "itemType": 4,
+            "itemCode": 6003,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 95,
+            "itemType": 4,
+            "itemCode": 6004,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 96,
+            "itemType": 4,
+            "itemCode": 6005,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 97,
+            "itemType": 4,
+            "itemCode": 6006,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 98,
+            "itemType": 4,
+            "itemCode": 6007,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 99,
+            "itemType": 4,
+            "itemCode": 6008,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 100,
+            "itemType": 4,
+            "itemCode": 6009,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 101,
+            "itemType": 4,
+            "itemCode": 6010,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 102,
+            "itemType": 4,
+            "itemCode": 6011,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 103,
+            "itemType": 4,
+            "itemCode": 6012,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 104,
+            "itemType": 4,
+            "itemCode": 6013,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 105,
+            "itemType": 4,
+            "itemCode": 6014,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 106,
+            "itemType": 4,
+            "itemCode": 6015,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 107,
+            "itemType": 4,
+            "itemCode": 6016,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 108,
+            "itemType": 4,
+            "itemCode": 7000,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 109,
+            "itemType": 4,
+            "itemCode": 7001,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 110,
+            "itemType": 4,
+            "itemCode": 7002,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 111,
+            "itemType": 4,
+            "itemCode": 7003,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 112,
+            "itemType": 4,
+            "itemCode": 7004,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 113,
+            "itemType": 4,
+            "itemCode": 7005,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 114,
+            "itemType": 4,
+            "itemCode": 7006,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 115,
+            "itemType": 4,
+            "itemCode": 7007,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 116,
+            "itemType": 4,
+            "itemCode": 7008,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 117,
+            "itemType": 4,
+            "itemCode": 7009,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 118,
+            "itemType": 4,
+            "itemCode": 7010,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 119,
+            "itemType": 4,
+            "itemCode": 7011,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 120,
+            "itemType": 4,
+            "itemCode": 8000,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 121,
+            "itemType": 4,
+            "itemCode": 8001,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 122,
+            "itemType": 4,
+            "itemCode": 8002,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 123,
+            "itemType": 4,
+            "itemCode": 9000,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 124,
+            "itemType": 4,
+            "itemCode": 9001,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 125,
+            "itemType": 4,
+            "itemCode": 9002,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 126,
+            "itemType": 4,
+            "itemCode": 9003,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 127,
+            "itemType": 4,
+            "itemCode": 9004,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 128,
+            "itemType": 4,
+            "itemCode": 9005,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 129,
+            "itemType": 4,
+            "itemCode": 9006,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 130,
+            "itemType": 4,
+            "itemCode": 9007,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 131,
+            "itemType": 4,
+            "itemCode": 9008,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 132,
+            "itemType": 4,
+            "itemCode": 9009,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 133,
+            "itemType": 4,
+            "itemCode": 10000,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 134,
+            "itemType": 4,
+            "itemCode": 10001,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 135,
+            "itemType": 4,
+            "itemCode": 10002,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 136,
+            "itemType": 4,
+            "itemCode": 10003,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 137,
+            "itemType": 4,
+            "itemCode": 10004,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 138,
+            "itemType": 4,
+            "itemCode": 10005,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 139,
+            "itemType": 3,
+            "itemCode": 300000,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 140,
+            "itemType": 3,
+            "itemCode": 300001,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 141,
+            "itemType": 3,
+            "itemCode": 300002,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 142,
+            "itemType": 3,
+            "itemCode": 300003,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 143,
+            "itemType": 3,
+            "itemCode": 300004,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 144,
+            "itemType": 3,
+            "itemCode": 300005,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 145,
+            "itemType": 3,
+            "itemCode": 300006,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 146,
+            "itemType": 3,
+            "itemCode": 300007,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 147,
+            "itemType": 3,
+            "itemCode": 300008,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 148,
+            "itemType": 3,
+            "itemCode": 300009,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 149,
+            "itemType": 3,
+            "itemCode": 300010,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 150,
+            "itemType": 3,
+            "itemCode": 300011,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 151,
+            "itemType": 3,
+            "itemCode": 300012,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 152,
+            "itemType": 2,
+            "itemCode": 5,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 153,
+            "itemType": 2,
+            "itemCode": 6,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 154,
+            "itemType": 2,
+            "itemCode": 9,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 155,
+            "itemType": 2,
+            "itemCode": 10,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 156,
+            "itemType": 2,
+            "itemCode": 13,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 157,
+            "itemType": 2,
+            "itemCode": 16,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 158,
+            "itemType": 2,
+            "itemCode": 18,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 159,
+            "itemType": 2,
+            "itemCode": 19,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 160,
+            "itemType": 2,
+            "itemCode": 23,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 161,
+            "itemType": 2,
+            "itemCode": 24,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 162,
+            "itemType": 2,
+            "itemCode": 1006,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 163,
+            "itemType": 2,
+            "itemCode": 1007,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 164,
+            "itemType": 2,
+            "itemCode": 1009,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 165,
+            "itemType": 2,
+            "itemCode": 1010,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 166,
+            "itemType": 2,
+            "itemCode": 1012,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 167,
+            "itemType": 2,
+            "itemCode": 1013,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 168,
+            "itemType": 2,
+            "itemCode": 1017,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 169,
+            "itemType": 2,
+            "itemCode": 1018,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 170,
+            "itemType": 2,
+            "itemCode": 2003,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        },
+        {
+            "index": 171,
+            "itemType": 2,
+            "itemCode": 5005,
+            "itemGetDescription": "획득 설명입니다.",
+            "getKnowledge": 10
+        }
+    ]
+}
